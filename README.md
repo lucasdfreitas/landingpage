@@ -1,2 +1,2 @@
-# landingpage
-Landing page feita em html e css.
+# Landing page
+Landing page para estudos feita inteiramente em html e css.
